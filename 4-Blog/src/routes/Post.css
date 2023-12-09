@@ -1,0 +1,20 @@
+.post-container h2 {
+  text-align: center;
+}
+
+.post-container .post {
+  border-bottom: none;
+}
+
+.post a #btn-prev {
+  background-color: #fff;
+  color: #0e1217;
+  border: 1px solid #fff;
+  opacity: 1;
+  padding: .5rem 1rem ;
+  border-radius: 1rem;
+  max-width: 100px;
+  text-align: center;
+  cursor: pointer;
+}
+
